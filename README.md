@@ -1,6 +1,3 @@
-Save the following as `index.html` and open it in a browser. It is a complete responsive standalone website for medical students across all 14 districts of Kerala.
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
